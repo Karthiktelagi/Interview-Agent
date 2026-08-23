@@ -6,6 +6,12 @@
   *(**Note:** Voice mode requires Google Chrome or Chromium-based browsers for Web Speech API support. Text mode works anywhere!)*
 - **Backend (API):** `https://interview-agent-sad6.onrender.com`
 
+## Product Preview
+
+The MAESTER interface combines a focused dark workspace with candidate context and adaptive interview workflows.
+
+![MAESTER interview workspace preview](demo.png)
+
 ---
 
 ## ⚡ What Makes This Different?
